@@ -1,4 +1,5 @@
-# Apresentação de projetos realizados durante cursos e treinamentos individuais
+# Apresentação:
+Projetos realizados durante cursos e treinamentos individuais.
 
 ## Projetos Concluídos:
 
